@@ -13,5 +13,6 @@ Les musiques originales peuvent être réutilisées sous condition de créditer 
 <li>Thème de Regimys : Composé par Navet56</li>
 <li>Thème de l'intro (A new begining): Composé par Navet56</li>
 <li>Thème d'Astra : Composé par Jlppc</li>
+<li>Thème Team Mystare et Combat Team Mystare : Compsés par Navet56</li>
 </ul>
 
