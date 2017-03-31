@@ -8,7 +8,7 @@
 </ul>
 
 # Musiques originales:
-Les musiques originales peuvent être réutilisées sous condition de créditer l'auteur
+Les musiques originales peuvent être réutilisées sous condition de créditer l'auteur. Elles sont sous license Creative Commons Attribution Share Alike 4.0, que vous pouvez voir dans le fichier LICENSE de ce dossier.
 <ul>
 <li>Thème de faubourg Euvi : Composé par Jlppc</li>
 <li>Thème de Regimys : Composé par Navet56</li>
