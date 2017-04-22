@@ -1,7 +1,15 @@
 key.title.1=Nueva juego
 key.title.2=Escoger un juego
-key.title.3=Opcions
+key.title.3=Parámetres
 key.title.4=Salir
+key.options.retour=Retorno
+key.options.title=Parámetres
+key.options.ecran=Pantalla
+key.options.lang=Lenguajes 
+key.options.vol=Audio
+key.options.control=Controles
+key.options.credit=Créditos
+key.options.lang.title=Lenguajes
 key.jlppc.dialog.start.1=Hola y Bienvenido en el 
 key.jlppc.dialog.start.2=mundo inconcluso del OpMons!
 key.jlppc.dialog.start.3=Yo , soy el creador de este tierras.
